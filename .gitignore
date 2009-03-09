@@ -1,0 +1,3 @@
+*.xcodeproj/*.mode*
+*.xcodeproj/*.pbxuser
+build
